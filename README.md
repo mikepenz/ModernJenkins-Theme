@@ -20,13 +20,14 @@ Installation
 - AWESOME!
 
 
+Preview
+------------
+![Preview](https://raw.githubusercontent.com/mikepenz/ModernJenkins/master/img/preview.png)
+
+
+
 Contributors
 ------------
 - Dominik Angerer
 - Thomas Pink
 - Mike Penz
-
-
-Preview
-------------
-![Preview](https://raw.githubusercontent.com/mikepenz/ModernJenkins/master/img/preview.png)
