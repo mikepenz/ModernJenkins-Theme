@@ -28,11 +28,16 @@ Preview
 
 Contributors
 ------------
-- Dominik Angerer
-- Thomas Pink
-- Mike Penz
+- [Dominik Angerer][1]
+- [Thomas Pink][2]
+- [Mike Penz][3]
 
 
 Thanks to
 ------------
 - https://github.com/rackerlabs/canon-jenkins for the loading and building indicators
+
+
+  [1]: https://github.com/dominikangerer
+  [2]: https://github.com/thomaspink
+  [3]: https://github.com/mikepenz
