@@ -240,8 +240,16 @@ textarea { padding: 6px 12px }
 #buildHistory .pane-header { font-size: 16px }
 #buildHistory .build-row td:not(.pane-header) { padding: 4px 0 4px 10px }
 #buildHistory .build-row:nth-child(2n) { background-color: #f9f9f9 }
-#buildHistory .build-row { border-top: 1px solid #ddd }
+#buildHistory .build-row { 
+    border-top: 1px solid #ddd;
+    padding: 0px !important;
+}
 #buildHistory .build-row:last-child { display: none }
+.build-row:only-child { display: table-row!important }
+.build-row { 
+    display: table-row!important;
+    padding: 0px !important;
+ }
 .healthReport { width: 32px }
 .healthReport img {
     vertical-align: top;
