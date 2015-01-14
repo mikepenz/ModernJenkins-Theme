@@ -1,7 +1,7 @@
 ModernJenkins
 =============
 
-A quick css to beautify your jenkins (SimpleThemePlugin required)
+A Jenkins theme to beautify your jenkins (SimpleThemePlugin required)
 
 
 
